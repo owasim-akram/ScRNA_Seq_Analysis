@@ -1,0 +1,7 @@
+SampleId,SampleName,SampleGroup,link
+SRR9264351,PBMMC_1,PBMMC,https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-run-15/SRR9264351/SRR9264351.1
+SRR9264353,PBMMC_2,PBMMC,https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-run-15/SRR9264353/SRR9264353.1
+SRR9264354,PBMMC_3,PBMMC,https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-run-20/SRR9264354/SRR9264354.1
+SRR9264343,ETV6-RUNX1_1,ETV6-RUNX1,https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-run-15/SRR9264343/SRR9264343.1
+SRR9264344,ETV6-RUNX1_2,ETV6-RUNX1,https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-run-19/SRR9264344/SRR9264344.1
+SRR9264345,ETV6-RUNX1_3,ETV6-RUNX1,https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-run-20/SRR9264345/SRR9264345.1
